@@ -43,6 +43,6 @@ let people: {
 
 // Type inference
 
-let course: number | string = 'React - The Complete Guide';
+let course: string | number = 'React - The Complete Guide';
 
 course = 12341;
